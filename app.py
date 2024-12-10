@@ -45,7 +45,7 @@ if uploaded_file:
         dimension = len(embeddings[0])
         index = faiss.IndexFlatL2(dimension)
         index.add(np.array(embeddings))
-        st.success("FAISS index created successfully!")
+        st.success(f"FAISS index created successfully! Embeddings shape: {np.array(embeddings).shape}")
 
         # Save embeddings and document text for chatbot
         chatbot = ChatbotInterface(index, chunks)
@@ -55,4 +55,7 @@ if uploaded_file:
         if user_query:
             context, response = chatbot.answer_query(user_query)
             st.write("### Chatbot Response:")
-            st.write(response)
+            if response.startswith("Error"):
+                st.error(response)
+            else:
+                st.write(response)

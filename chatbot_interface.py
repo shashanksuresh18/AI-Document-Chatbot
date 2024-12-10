@@ -15,7 +15,8 @@ class ChatbotInterface:
             query_embedding = response["data"][0]["embedding"]
 
             # Search in FAISS index
-            distances, indices = self.index.search([query_embedding], top_k)
+            import numpy as np
+            distances, indices = self.index.search(np.array([query_embedding]), top_k)
 
             # Retrieve relevant chunks
             retrieved_chunks = [self.chunks[i] for i in indices[0]]
@@ -24,12 +25,15 @@ class ChatbotInterface:
             context = " ".join(retrieved_chunks)
 
             # Use GPT to generate a response
-            gpt_response = openai.Completion.create(
-                engine="text-davinci-003",
-                prompt=f"Context: {context}\n\nAnswer the question: {query}",
+            gpt_response = openai.ChatCompletion.create(
+                model="gpt-4",  # Updated model
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "user", "content": f"Context: {context}\n\nAnswer the question: {query}"}
+                ],
                 max_tokens=150
             )
-            chatbot_response = gpt_response["choices"][0]["text"].strip()
+            chatbot_response = gpt_response["choices"][0]["message"]["content"].strip()
 
             return context, chatbot_response
         except Exception as e:
