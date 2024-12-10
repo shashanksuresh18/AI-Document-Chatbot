@@ -1,0 +1,384 @@
+2024-12-10 01:16:00,137 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:16:00,721 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:16:17,679 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:16:18,185 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:16:19,139 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:16:19,585 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:16:19,585 - INFO - User query: What is the name
+2024-12-10 01:16:19,837 - INFO - Context retrieved: SHASHANK SURESH
+London, UK | +44 7741092923 | shashanksuresh018@gmail.com | linkedin.com/in/shashanksuresh18 | github.com/shashanksuresh18
+
+SUMMARY
+
+Data Scientist with three years of experience in application development, cloud computing, and machine learning. Currently pursuing a Master's in Data Science at the University of Surrey. Proficient in Python, Java, SQL, and AI technologies, with a proven track record of optimizing system efficiency and database performance. Skilled in AWS, Azure, and GCP, dedicated to delivering impactful data-driven results and collaborating with international teams.
+
+EDUCATION
+
+University of Surrey	Guildford, UK
+* Master of Science in Data Science	September 2023 - September 2024
+Relevant Courses: Database Systems, Business Analytics, Natural Language Processing, Data Mining, Cloud Computing.
+
+PES College of Engineering	Mandya, India
+* Bachelor of Engineering in Electronics and Communication (GPA: 8.45/10.00)	August 2016 - September 2020
+Relevant Courses: Data structures, Operating Systems, Data Science, Computer Networks, Digital Communication. 
+SKILLS
+
+* Development languages: Python, Java, R, C, C++, SQL, HTML, CSS, TypeScript, JavaScript.
+* Database/ Cloud Computing/ DevOps: MySQL, MongoDB, PostgreSQL, CI/CD, Firebase, AWS, GCP, Azure, Git.
+* Artificial Intelligence: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, PyTorch, Computer Vision, NLTK, GenAI.
+* Web Technologies: Django, Flask, NodeJS, jQuery, Angular, Bootstrap, Next.js.
+* Visualisation Tools: Power BI, Tableau, Matplotlib, ggplot2.
+* Other Skills: Statistical Analysis, Data Analytics, Web 3.0, Attention to Detail, Innovative, Collaborative Teamwork, Interpersonal Communication, Problem Solving, Research and Development.
+EXPERIENCE
+
+Application Development Cloud Analyst	Accenture,Bengaluru, India	January 2021 - August 2023
+* Designed and deployed Platform-as-a-Service solutions using Azure, improving system efficiency by 25% and reducing application deployment times by 30% through automation of CI/CD pipelines.
+* Overhauled alert system rules using advanced monitoring tools, reducing unnecessary alerts by 40%. Optimized Microsoft SQL Server configurations in Azure Cloud, boosting overall database performance by 20%.
+Application Development Associate	Accenture, Bengaluru, India	November 2020 - December 2021
+* Resolved critical bugs, enhancing product quality by 30%. Developed a click-based filtering tool using JavaScript, improving data selection efficiency and user interaction by 20%.
+* Designed user interface components to improve customer experience and received a Spotlight award for outstanding contributions to timely software delivery.
+Software Engineer Intern	QSpider Global, Bengaluru, India	October 2019 - March 2020
+* Conducted complex data analysis and reporting using SQL, supporting decision-making processes within the development team. Utilized Microsoft Office for comprehensive documentation and reporting.
+* Assisted in developing and testing data analysis and visualization software solutions, gaining proficiency with Git for version control and enhancing user experiences through intuitive design.
+Machine Learning Intern	India Tobacco Company Limited, Bengaluru, India	December 2018-March 2019
+* Developed machine learning models using Python, scikit-learn, and TensorFlow. Executed data engineering tasks to prepare datasets and utilized SQL for ETL processes, ensuring data quality and consistency.
+* Employed Bayesian methods to improve predictive model accuracy, contributing to data-driven decision-making by optimizing data flow and storage systems.
+ACADEMIC PROJECTS
+Cloud-Native API for Risk and Profitability Analysis Using Monte Carlo Method for AMZN Trading AWS | GCP | Lamba | EC2 | Cloud	2024
+* Developed a cloud-native API using AWS Lambda and EC2 to evaluate trading signals, determine risks and profitability of AMZN stock with the Monte Carlo method, and deployed on GCP for scalable, cost-effective management.
+* Integrated AWS Lambda for rapid, serverless computation and AWS EC2 for complex simulations, ensuring high availability and efficient computation for detailed trading data analysis.
+Sequence Classification for Abbreviation and Long Form Detection Hugging Face | BERT | NLP | Sequence Classification	2024
+* Built a sequence classifier using the PLOD dataset to identify abbreviations (AC) and long forms (LF) with the BIO labelling schema. Fine-tuned multiple models, including SVM and BERT, and deployed the best-performing model as a web service.
+* Deployed a scalable machine learning model with Docker and FastAPI, ensuring seamless integration and real-time predictions. Leveraged containerization to provide a robust and consistent environment across multiple platforms.
+Healthcare Framework for Predicting Cardiovascular Disease R | Predictive Analytics | SVM | ggplot2	2023
+* Created a machine learning framework using R to assess cardiovascular disease risk, demonstrating the application of data science to real-world health challenges.
+* Assessed the framework using various supervised learning algorithms, achieving an AUC score of 0.88, ensuring the model's predictions are accurate and reliable.
+Paddy Crop Disease Detection Using Machine Learning TensorFlow | Computer Vision | Python | OpenCV	2020
+* Evaluated a CNN model using TensorFlow, achieving 92% accuracy in detecting paddy crop diseases. Designed a deep learning architecture with optimized layers and hyperparameters.
+* Curated a dataset of over 5,000 images and applied data augmentation techniques, such as rotation, flipping, and scaling, enhancing model robustness and accuracy.
+CERTIFICATES
+* Microsoft Certified: Azure Data Engineer Associate | Azure Data Fundamentals | Power Platform Fundamentals	
+
+2024-12-10 01:16:21,320 - INFO - Chatbot response: The name is Shashank Suresh.
+2024-12-10 01:16:36,065 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:16:36,267 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:16:36,587 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:16:36,587 - INFO - User query: what is the purpose
+2024-12-10 01:16:37,019 - INFO - Context retrieved: SHASHANK SURESH
+London, UK | +44 7741092923 | shashanksuresh018@gmail.com | linkedin.com/in/shashanksuresh18 | github.com/shashanksuresh18
+
+SUMMARY
+
+Data Scientist with three years of experience in application development, cloud computing, and machine learning. Currently pursuing a Master's in Data Science at the University of Surrey. Proficient in Python, Java, SQL, and AI technologies, with a proven track record of optimizing system efficiency and database performance. Skilled in AWS, Azure, and GCP, dedicated to delivering impactful data-driven results and collaborating with international teams.
+
+EDUCATION
+
+University of Surrey	Guildford, UK
+* Master of Science in Data Science	September 2023 - September 2024
+Relevant Courses: Database Systems, Business Analytics, Natural Language Processing, Data Mining, Cloud Computing.
+
+PES College of Engineering	Mandya, India
+* Bachelor of Engineering in Electronics and Communication (GPA: 8.45/10.00)	August 2016 - September 2020
+Relevant Courses: Data structures, Operating Systems, Data Science, Computer Networks, Digital Communication. 
+SKILLS
+
+* Development languages: Python, Java, R, C, C++, SQL, HTML, CSS, TypeScript, JavaScript.
+* Database/ Cloud Computing/ DevOps: MySQL, MongoDB, PostgreSQL, CI/CD, Firebase, AWS, GCP, Azure, Git.
+* Artificial Intelligence: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, PyTorch, Computer Vision, NLTK, GenAI.
+* Web Technologies: Django, Flask, NodeJS, jQuery, Angular, Bootstrap, Next.js.
+* Visualisation Tools: Power BI, Tableau, Matplotlib, ggplot2.
+* Other Skills: Statistical Analysis, Data Analytics, Web 3.0, Attention to Detail, Innovative, Collaborative Teamwork, Interpersonal Communication, Problem Solving, Research and Development.
+EXPERIENCE
+
+Application Development Cloud Analyst	Accenture,Bengaluru, India	January 2021 - August 2023
+* Designed and deployed Platform-as-a-Service solutions using Azure, improving system efficiency by 25% and reducing application deployment times by 30% through automation of CI/CD pipelines.
+* Overhauled alert system rules using advanced monitoring tools, reducing unnecessary alerts by 40%. Optimized Microsoft SQL Server configurations in Azure Cloud, boosting overall database performance by 20%.
+Application Development Associate	Accenture, Bengaluru, India	November 2020 - December 2021
+* Resolved critical bugs, enhancing product quality by 30%. Developed a click-based filtering tool using JavaScript, improving data selection efficiency and user interaction by 20%.
+* Designed user interface components to improve customer experience and received a Spotlight award for outstanding contributions to timely software delivery.
+Software Engineer Intern	QSpider Global, Bengaluru, India	October 2019 - March 2020
+* Conducted complex data analysis and reporting using SQL, supporting decision-making processes within the development team. Utilized Microsoft Office for comprehensive documentation and reporting.
+* Assisted in developing and testing data analysis and visualization software solutions, gaining proficiency with Git for version control and enhancing user experiences through intuitive design.
+Machine Learning Intern	India Tobacco Company Limited, Bengaluru, India	December 2018-March 2019
+* Developed machine learning models using Python, scikit-learn, and TensorFlow. Executed data engineering tasks to prepare datasets and utilized SQL for ETL processes, ensuring data quality and consistency.
+* Employed Bayesian methods to improve predictive model accuracy, contributing to data-driven decision-making by optimizing data flow and storage systems.
+ACADEMIC PROJECTS
+Cloud-Native API for Risk and Profitability Analysis Using Monte Carlo Method for AMZN Trading AWS | GCP | Lamba | EC2 | Cloud	2024
+* Developed a cloud-native API using AWS Lambda and EC2 to evaluate trading signals, determine risks and profitability of AMZN stock with the Monte Carlo method, and deployed on GCP for scalable, cost-effective management.
+* Integrated AWS Lambda for rapid, serverless computation and AWS EC2 for complex simulations, ensuring high availability and efficient computation for detailed trading data analysis.
+Sequence Classification for Abbreviation and Long Form Detection Hugging Face | BERT | NLP | Sequence Classification	2024
+* Built a sequence classifier using the PLOD dataset to identify abbreviations (AC) and long forms (LF) with the BIO labelling schema. Fine-tuned multiple models, including SVM and BERT, and deployed the best-performing model as a web service.
+* Deployed a scalable machine learning model with Docker and FastAPI, ensuring seamless integration and real-time predictions. Leveraged containerization to provide a robust and consistent environment across multiple platforms.
+Healthcare Framework for Predicting Cardiovascular Disease R | Predictive Analytics | SVM | ggplot2	2023
+* Created a machine learning framework using R to assess cardiovascular disease risk, demonstrating the application of data science to real-world health challenges.
+* Assessed the framework using various supervised learning algorithms, achieving an AUC score of 0.88, ensuring the model's predictions are accurate and reliable.
+Paddy Crop Disease Detection Using Machine Learning TensorFlow | Computer Vision | Python | OpenCV	2020
+* Evaluated a CNN model using TensorFlow, achieving 92% accuracy in detecting paddy crop diseases. Designed a deep learning architecture with optimized layers and hyperparameters.
+* Curated a dataset of over 5,000 images and applied data augmentation techniques, such as rotation, flipping, and scaling, enhancing model robustness and accuracy.
+CERTIFICATES
+* Microsoft Certified: Azure Data Engineer Associate | Azure Data Fundamentals | Power Platform Fundamentals	
+
+2024-12-10 01:16:38,700 - INFO - Chatbot response: Your query lacks specificity. Please provide more context or clarify what you want to know the purpose of.
+
+2024-12-10 01:17:01,989 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:17:02,192 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:17:02,522 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:17:02,523 - INFO - User query: what is the purpose of the document
+2024-12-10 01:17:02,914 - INFO - Context retrieved: SHASHANK SURESH
+London, UK | +44 7741092923 | shashanksuresh018@gmail.com | linkedin.com/in/shashanksuresh18 | github.com/shashanksuresh18
+
+SUMMARY
+
+Data Scientist with three years of experience in application development, cloud computing, and machine learning. Currently pursuing a Master's in Data Science at the University of Surrey. Proficient in Python, Java, SQL, and AI technologies, with a proven track record of optimizing system efficiency and database performance. Skilled in AWS, Azure, and GCP, dedicated to delivering impactful data-driven results and collaborating with international teams.
+
+EDUCATION
+
+University of Surrey	Guildford, UK
+* Master of Science in Data Science	September 2023 - September 2024
+Relevant Courses: Database Systems, Business Analytics, Natural Language Processing, Data Mining, Cloud Computing.
+
+PES College of Engineering	Mandya, India
+* Bachelor of Engineering in Electronics and Communication (GPA: 8.45/10.00)	August 2016 - September 2020
+Relevant Courses: Data structures, Operating Systems, Data Science, Computer Networks, Digital Communication. 
+SKILLS
+
+* Development languages: Python, Java, R, C, C++, SQL, HTML, CSS, TypeScript, JavaScript.
+* Database/ Cloud Computing/ DevOps: MySQL, MongoDB, PostgreSQL, CI/CD, Firebase, AWS, GCP, Azure, Git.
+* Artificial Intelligence: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, PyTorch, Computer Vision, NLTK, GenAI.
+* Web Technologies: Django, Flask, NodeJS, jQuery, Angular, Bootstrap, Next.js.
+* Visualisation Tools: Power BI, Tableau, Matplotlib, ggplot2.
+* Other Skills: Statistical Analysis, Data Analytics, Web 3.0, Attention to Detail, Innovative, Collaborative Teamwork, Interpersonal Communication, Problem Solving, Research and Development.
+EXPERIENCE
+
+Application Development Cloud Analyst	Accenture,Bengaluru, India	January 2021 - August 2023
+* Designed and deployed Platform-as-a-Service solutions using Azure, improving system efficiency by 25% and reducing application deployment times by 30% through automation of CI/CD pipelines.
+* Overhauled alert system rules using advanced monitoring tools, reducing unnecessary alerts by 40%. Optimized Microsoft SQL Server configurations in Azure Cloud, boosting overall database performance by 20%.
+Application Development Associate	Accenture, Bengaluru, India	November 2020 - December 2021
+* Resolved critical bugs, enhancing product quality by 30%. Developed a click-based filtering tool using JavaScript, improving data selection efficiency and user interaction by 20%.
+* Designed user interface components to improve customer experience and received a Spotlight award for outstanding contributions to timely software delivery.
+Software Engineer Intern	QSpider Global, Bengaluru, India	October 2019 - March 2020
+* Conducted complex data analysis and reporting using SQL, supporting decision-making processes within the development team. Utilized Microsoft Office for comprehensive documentation and reporting.
+* Assisted in developing and testing data analysis and visualization software solutions, gaining proficiency with Git for version control and enhancing user experiences through intuitive design.
+Machine Learning Intern	India Tobacco Company Limited, Bengaluru, India	December 2018-March 2019
+* Developed machine learning models using Python, scikit-learn, and TensorFlow. Executed data engineering tasks to prepare datasets and utilized SQL for ETL processes, ensuring data quality and consistency.
+* Employed Bayesian methods to improve predictive model accuracy, contributing to data-driven decision-making by optimizing data flow and storage systems.
+ACADEMIC PROJECTS
+Cloud-Native API for Risk and Profitability Analysis Using Monte Carlo Method for AMZN Trading AWS | GCP | Lamba | EC2 | Cloud	2024
+* Developed a cloud-native API using AWS Lambda and EC2 to evaluate trading signals, determine risks and profitability of AMZN stock with the Monte Carlo method, and deployed on GCP for scalable, cost-effective management.
+* Integrated AWS Lambda for rapid, serverless computation and AWS EC2 for complex simulations, ensuring high availability and efficient computation for detailed trading data analysis.
+Sequence Classification for Abbreviation and Long Form Detection Hugging Face | BERT | NLP | Sequence Classification	2024
+* Built a sequence classifier using the PLOD dataset to identify abbreviations (AC) and long forms (LF) with the BIO labelling schema. Fine-tuned multiple models, including SVM and BERT, and deployed the best-performing model as a web service.
+* Deployed a scalable machine learning model with Docker and FastAPI, ensuring seamless integration and real-time predictions. Leveraged containerization to provide a robust and consistent environment across multiple platforms.
+Healthcare Framework for Predicting Cardiovascular Disease R | Predictive Analytics | SVM | ggplot2	2023
+* Created a machine learning framework using R to assess cardiovascular disease risk, demonstrating the application of data science to real-world health challenges.
+* Assessed the framework using various supervised learning algorithms, achieving an AUC score of 0.88, ensuring the model's predictions are accurate and reliable.
+Paddy Crop Disease Detection Using Machine Learning TensorFlow | Computer Vision | Python | OpenCV	2020
+* Evaluated a CNN model using TensorFlow, achieving 92% accuracy in detecting paddy crop diseases. Designed a deep learning architecture with optimized layers and hyperparameters.
+* Curated a dataset of over 5,000 images and applied data augmentation techniques, such as rotation, flipping, and scaling, enhancing model robustness and accuracy.
+CERTIFICATES
+* Microsoft Certified: Azure Data Engineer Associate | Azure Data Fundamentals | Power Platform Fundamentals	
+
+2024-12-10 01:17:07,949 - INFO - Chatbot response: The purpose of this document is to serve as the professional resume or CV of Shashank Suresh. It showcases his educational background, skills, work experience, projects, and certifications, particularly in the field of data science and application development. This document can be used to apply for jobs, internships, or other professional opportunities.
+2024-12-10 01:33:55,851 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:33:56,372 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:34:17,169 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:34:17,366 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:34:18,218 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:34:18,218 - INFO - User query: What is the need of the file 
+2024-12-10 01:34:18,547 - INFO - Context retrieved: SHASHANK SURESH
+London, UK | +44 7741092923 | shashanksuresh018@gmail.com | linkedin.com/in/shashanksuresh18 | github.com/shashanksuresh18
+
+SUMMARY
+
+Data Scientist with three years of experience in application development, cloud computing, and machine learning. Currently pursuing a Master's in Data Science at the University of Surrey. Proficient in Python, Java, SQL, and AI technologies, with a proven track record of optimizing system efficiency and database performance. Skilled in AWS, Azure, and GCP, dedicated to delivering impactful data-driven results and collaborating with international teams.
+
+EDUCATION
+
+University of Surrey	Guildford, UK
+* Master of Science in Data Science	September 2023 - September 2024
+Relevant Courses: Database Systems, Business Analytics, Natural Language Processing, Data Mining, Cloud Computing.
+
+PES College of Engineering	Mandya, India
+* Bachelor of Engineering in Electronics and Communication (GPA: 8.45/10.00)	August 2016 - September 2020
+Relevant Courses: Data structures, Operating Systems, Data Science, Computer Networks, Digital Communication. 
+SKILLS
+
+* Development languages: Python, Java, R, C, C++, SQL, HTML, CSS, TypeScript, JavaScript.
+* Database/ Cloud Computing/ DevOps: MySQL, MongoDB, PostgreSQL, CI/CD, Firebase, AWS, GCP, Azure, Git.
+* Artificial Intelligence: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, PyTorch, Computer Vision, NLTK, GenAI.
+* Web Technologies: Django, Flask, NodeJS, jQuery, Angular, Bootstrap, Next.js.
+* Visualisation Tools: Power BI, Tableau, Matplotlib, ggplot2.
+* Other Skills: Statistical Analysis, Data Analytics, Web 3.0, Attention to Detail, Innovative, Collaborative Teamwork, Interpersonal Communication, Problem Solving, Research and Development.
+EXPERIENCE
+
+Application Development Cloud Analyst	Accenture,Bengaluru, India	January 2021 - August 2023
+* Designed and deployed Platform-as-a-Service solutions using Azure, improving system efficiency by 25% and reducing application deployment times by 30% through automation of CI/CD pipelines.
+* Overhauled alert system rules using advanced monitoring tools, reducing unnecessary alerts by 40%. Optimized Microsoft SQL Server configurations in Azure Cloud, boosting overall database performance by 20%.
+Application Development Associate	Accenture, Bengaluru, India	November 2020 - December 2021
+* Resolved critical bugs, enhancing product quality by 30%. Developed a click-based filtering tool using JavaScript, improving data selection efficiency and user interaction by 20%.
+* Designed user interface components to improve customer experience and received a Spotlight award for outstanding contributions to timely software delivery.
+Software Engineer Intern	QSpider Global, Bengaluru, India	October 2019 - March 2020
+* Conducted complex data analysis and reporting using SQL, supporting decision-making processes within the development team. Utilized Microsoft Office for comprehensive documentation and reporting.
+* Assisted in developing and testing data analysis and visualization software solutions, gaining proficiency with Git for version control and enhancing user experiences through intuitive design.
+Machine Learning Intern	India Tobacco Company Limited, Bengaluru, India	December 2018-March 2019
+* Developed machine learning models using Python, scikit-learn, and TensorFlow. Executed data engineering tasks to prepare datasets and utilized SQL for ETL processes, ensuring data quality and consistency.
+* Employed Bayesian methods to improve predictive model accuracy, contributing to data-driven decision-making by optimizing data flow and storage systems.
+ACADEMIC PROJECTS
+Cloud-Native API for Risk and Profitability Analysis Using Monte Carlo Method for AMZN Trading AWS | GCP | Lamba | EC2 | Cloud	2024
+* Developed a cloud-native API using AWS Lambda and EC2 to evaluate trading signals, determine risks and profitability of AMZN stock with the Monte Carlo method, and deployed on GCP for scalable, cost-effective management.
+* Integrated AWS Lambda for rapid, serverless computation and AWS EC2 for complex simulations, ensuring high availability and efficient computation for detailed trading data analysis.
+Sequence Classification for Abbreviation and Long Form Detection Hugging Face | BERT | NLP | Sequence Classification	2024
+* Built a sequence classifier using the PLOD dataset to identify abbreviations (AC) and long forms (LF) with the BIO labelling schema. Fine-tuned multiple models, including SVM and BERT, and deployed the best-performing model as a web service.
+* Deployed a scalable machine learning model with Docker and FastAPI, ensuring seamless integration and real-time predictions. Leveraged containerization to provide a robust and consistent environment across multiple platforms.
+Healthcare Framework for Predicting Cardiovascular Disease R | Predictive Analytics | SVM | ggplot2	2023
+* Created a machine learning framework using R to assess cardiovascular disease risk, demonstrating the application of data science to real-world health challenges.
+* Assessed the framework using various supervised learning algorithms, achieving an AUC score of 0.88, ensuring the model's predictions are accurate and reliable.
+Paddy Crop Disease Detection Using Machine Learning TensorFlow | Computer Vision | Python | OpenCV	2020
+* Evaluated a CNN model using TensorFlow, achieving 92% accuracy in detecting paddy crop diseases. Designed a deep learning architecture with optimized layers and hyperparameters.
+* Curated a dataset of over 5,000 images and applied data augmentation techniques, such as rotation, flipping, and scaling, enhancing model robustness and accuracy.
+CERTIFICATES
+* Microsoft Certified: Azure Data Engineer Associate | Azure Data Fundamentals | Power Platform Fundamentals	
+
+2024-12-10 01:34:19,163 - INFO - error_code=None error_message='The server had an error processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if you keep seeing this error. (Please include the request ID req_e1f12edc6697d3e7320d21e5bfeea5b3 in your email.)' error_param=None error_type=server_error message='OpenAI API error received' stream_error=False
+2024-12-10 01:34:19,163 - ERROR - Error in chat_with_context: The server had an error processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if you keep seeing this error. (Please include the request ID req_e1f12edc6697d3e7320d21e5bfeea5b3 in your email.) {
+  "error": {
+    "message": "The server had an error processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if you keep seeing this error. (Please include the request ID req_e1f12edc6697d3e7320d21e5bfeea5b3 in your email.)",
+    "type": "server_error",
+    "param": null,
+    "code": null
+  }
+} 500 {'error': {'message': 'The server had an error processing your request. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if you keep seeing this error. (Please include the request ID req_e1f12edc6697d3e7320d21e5bfeea5b3 in your email.)', 'type': 'server_error', 'param': None, 'code': None}} {'Date': 'Tue, 10 Dec 2024 01:34:18 GMT', 'Content-Type': 'application/json', 'Content-Length': '369', 'Connection': 'keep-alive', 'access-control-expose-headers': 'X-Request-ID', 'openai-processing-ms': '97', 'x-ratelimit-limit-requests': '10000', 'x-ratelimit-limit-tokens': '10000', 'x-ratelimit-remaining-requests': '9999', 'x-ratelimit-remaining-tokens': '8496', 'x-ratelimit-reset-requests': '8.64s', 'x-ratelimit-reset-tokens': '9.024s', 'x-request-id': 'req_e1f12edc6697d3e7320d21e5bfeea5b3', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'CF-Cache-Status': 'DYNAMIC', 'X-Content-Type-Options': 'nosniff', 'Server': 'cloudflare', 'CF-RAY': '8ef97de28a380746-MAN', 'alt-svc': 'h3=":443"; ma=86400'}
+2024-12-10 01:34:19,163 - INFO - Chatbot response: An error occurred while processing your query.
+2024-12-10 01:34:22,554 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:34:23,529 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:34:23,529 - INFO - User query: What is the need of the file 
+2024-12-10 01:34:24,047 - INFO - Context retrieved: SHASHANK SURESH
+London, UK | +44 7741092923 | shashanksuresh018@gmail.com | linkedin.com/in/shashanksuresh18 | github.com/shashanksuresh18
+
+SUMMARY
+
+Data Scientist with three years of experience in application development, cloud computing, and machine learning. Currently pursuing a Master's in Data Science at the University of Surrey. Proficient in Python, Java, SQL, and AI technologies, with a proven track record of optimizing system efficiency and database performance. Skilled in AWS, Azure, and GCP, dedicated to delivering impactful data-driven results and collaborating with international teams.
+
+EDUCATION
+
+University of Surrey	Guildford, UK
+* Master of Science in Data Science	September 2023 - September 2024
+Relevant Courses: Database Systems, Business Analytics, Natural Language Processing, Data Mining, Cloud Computing.
+
+PES College of Engineering	Mandya, India
+* Bachelor of Engineering in Electronics and Communication (GPA: 8.45/10.00)	August 2016 - September 2020
+Relevant Courses: Data structures, Operating Systems, Data Science, Computer Networks, Digital Communication. 
+SKILLS
+
+* Development languages: Python, Java, R, C, C++, SQL, HTML, CSS, TypeScript, JavaScript.
+* Database/ Cloud Computing/ DevOps: MySQL, MongoDB, PostgreSQL, CI/CD, Firebase, AWS, GCP, Azure, Git.
+* Artificial Intelligence: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, PyTorch, Computer Vision, NLTK, GenAI.
+* Web Technologies: Django, Flask, NodeJS, jQuery, Angular, Bootstrap, Next.js.
+* Visualisation Tools: Power BI, Tableau, Matplotlib, ggplot2.
+* Other Skills: Statistical Analysis, Data Analytics, Web 3.0, Attention to Detail, Innovative, Collaborative Teamwork, Interpersonal Communication, Problem Solving, Research and Development.
+EXPERIENCE
+
+Application Development Cloud Analyst	Accenture,Bengaluru, India	January 2021 - August 2023
+* Designed and deployed Platform-as-a-Service solutions using Azure, improving system efficiency by 25% and reducing application deployment times by 30% through automation of CI/CD pipelines.
+* Overhauled alert system rules using advanced monitoring tools, reducing unnecessary alerts by 40%. Optimized Microsoft SQL Server configurations in Azure Cloud, boosting overall database performance by 20%.
+Application Development Associate	Accenture, Bengaluru, India	November 2020 - December 2021
+* Resolved critical bugs, enhancing product quality by 30%. Developed a click-based filtering tool using JavaScript, improving data selection efficiency and user interaction by 20%.
+* Designed user interface components to improve customer experience and received a Spotlight award for outstanding contributions to timely software delivery.
+Software Engineer Intern	QSpider Global, Bengaluru, India	October 2019 - March 2020
+* Conducted complex data analysis and reporting using SQL, supporting decision-making processes within the development team. Utilized Microsoft Office for comprehensive documentation and reporting.
+* Assisted in developing and testing data analysis and visualization software solutions, gaining proficiency with Git for version control and enhancing user experiences through intuitive design.
+Machine Learning Intern	India Tobacco Company Limited, Bengaluru, India	December 2018-March 2019
+* Developed machine learning models using Python, scikit-learn, and TensorFlow. Executed data engineering tasks to prepare datasets and utilized SQL for ETL processes, ensuring data quality and consistency.
+* Employed Bayesian methods to improve predictive model accuracy, contributing to data-driven decision-making by optimizing data flow and storage systems.
+ACADEMIC PROJECTS
+Cloud-Native API for Risk and Profitability Analysis Using Monte Carlo Method for AMZN Trading AWS | GCP | Lamba | EC2 | Cloud	2024
+* Developed a cloud-native API using AWS Lambda and EC2 to evaluate trading signals, determine risks and profitability of AMZN stock with the Monte Carlo method, and deployed on GCP for scalable, cost-effective management.
+* Integrated AWS Lambda for rapid, serverless computation and AWS EC2 for complex simulations, ensuring high availability and efficient computation for detailed trading data analysis.
+Sequence Classification for Abbreviation and Long Form Detection Hugging Face | BERT | NLP | Sequence Classification	2024
+* Built a sequence classifier using the PLOD dataset to identify abbreviations (AC) and long forms (LF) with the BIO labelling schema. Fine-tuned multiple models, including SVM and BERT, and deployed the best-performing model as a web service.
+* Deployed a scalable machine learning model with Docker and FastAPI, ensuring seamless integration and real-time predictions. Leveraged containerization to provide a robust and consistent environment across multiple platforms.
+Healthcare Framework for Predicting Cardiovascular Disease R | Predictive Analytics | SVM | ggplot2	2023
+* Created a machine learning framework using R to assess cardiovascular disease risk, demonstrating the application of data science to real-world health challenges.
+* Assessed the framework using various supervised learning algorithms, achieving an AUC score of 0.88, ensuring the model's predictions are accurate and reliable.
+Paddy Crop Disease Detection Using Machine Learning TensorFlow | Computer Vision | Python | OpenCV	2020
+* Evaluated a CNN model using TensorFlow, achieving 92% accuracy in detecting paddy crop diseases. Designed a deep learning architecture with optimized layers and hyperparameters.
+* Curated a dataset of over 5,000 images and applied data augmentation techniques, such as rotation, flipping, and scaling, enhancing model robustness and accuracy.
+CERTIFICATES
+* Microsoft Certified: Azure Data Engineer Associate | Azure Data Fundamentals | Power Platform Fundamentals	
+
+2024-12-10 01:34:26,905 - INFO - Chatbot response: The file appears to be a resume for a person named Shashank Suresh, who is a Data Scientist. This document usually serves the purpose of job applications, for providing information to potential employers about Shashank's professional experience, educational background, skills, and achievements. It also includes contact information for the potential employer to get in touch with Shashank for further recruitment processes.
+2024-12-10 01:34:46,702 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:34:46,922 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:34:47,373 - INFO - FAISS index created with 1 chunks
+2024-12-10 01:34:47,373 - INFO - User query: What all jobs can be applied?
+2024-12-10 01:34:47,738 - INFO - Context retrieved: SHASHANK SURESH
+London, UK | +44 7741092923 | shashanksuresh018@gmail.com | linkedin.com/in/shashanksuresh18 | github.com/shashanksuresh18
+
+SUMMARY
+
+Data Scientist with three years of experience in application development, cloud computing, and machine learning. Currently pursuing a Master's in Data Science at the University of Surrey. Proficient in Python, Java, SQL, and AI technologies, with a proven track record of optimizing system efficiency and database performance. Skilled in AWS, Azure, and GCP, dedicated to delivering impactful data-driven results and collaborating with international teams.
+
+EDUCATION
+
+University of Surrey	Guildford, UK
+* Master of Science in Data Science	September 2023 - September 2024
+Relevant Courses: Database Systems, Business Analytics, Natural Language Processing, Data Mining, Cloud Computing.
+
+PES College of Engineering	Mandya, India
+* Bachelor of Engineering in Electronics and Communication (GPA: 8.45/10.00)	August 2016 - September 2020
+Relevant Courses: Data structures, Operating Systems, Data Science, Computer Networks, Digital Communication. 
+SKILLS
+
+* Development languages: Python, Java, R, C, C++, SQL, HTML, CSS, TypeScript, JavaScript.
+* Database/ Cloud Computing/ DevOps: MySQL, MongoDB, PostgreSQL, CI/CD, Firebase, AWS, GCP, Azure, Git.
+* Artificial Intelligence: NumPy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, PyTorch, Computer Vision, NLTK, GenAI.
+* Web Technologies: Django, Flask, NodeJS, jQuery, Angular, Bootstrap, Next.js.
+* Visualisation Tools: Power BI, Tableau, Matplotlib, ggplot2.
+* Other Skills: Statistical Analysis, Data Analytics, Web 3.0, Attention to Detail, Innovative, Collaborative Teamwork, Interpersonal Communication, Problem Solving, Research and Development.
+EXPERIENCE
+
+Application Development Cloud Analyst	Accenture,Bengaluru, India	January 2021 - August 2023
+* Designed and deployed Platform-as-a-Service solutions using Azure, improving system efficiency by 25% and reducing application deployment times by 30% through automation of CI/CD pipelines.
+* Overhauled alert system rules using advanced monitoring tools, reducing unnecessary alerts by 40%. Optimized Microsoft SQL Server configurations in Azure Cloud, boosting overall database performance by 20%.
+Application Development Associate	Accenture, Bengaluru, India	November 2020 - December 2021
+* Resolved critical bugs, enhancing product quality by 30%. Developed a click-based filtering tool using JavaScript, improving data selection efficiency and user interaction by 20%.
+* Designed user interface components to improve customer experience and received a Spotlight award for outstanding contributions to timely software delivery.
+Software Engineer Intern	QSpider Global, Bengaluru, India	October 2019 - March 2020
+* Conducted complex data analysis and reporting using SQL, supporting decision-making processes within the development team. Utilized Microsoft Office for comprehensive documentation and reporting.
+* Assisted in developing and testing data analysis and visualization software solutions, gaining proficiency with Git for version control and enhancing user experiences through intuitive design.
+Machine Learning Intern	India Tobacco Company Limited, Bengaluru, India	December 2018-March 2019
+* Developed machine learning models using Python, scikit-learn, and TensorFlow. Executed data engineering tasks to prepare datasets and utilized SQL for ETL processes, ensuring data quality and consistency.
+* Employed Bayesian methods to improve predictive model accuracy, contributing to data-driven decision-making by optimizing data flow and storage systems.
+ACADEMIC PROJECTS
+Cloud-Native API for Risk and Profitability Analysis Using Monte Carlo Method for AMZN Trading AWS | GCP | Lamba | EC2 | Cloud	2024
+* Developed a cloud-native API using AWS Lambda and EC2 to evaluate trading signals, determine risks and profitability of AMZN stock with the Monte Carlo method, and deployed on GCP for scalable, cost-effective management.
+* Integrated AWS Lambda for rapid, serverless computation and AWS EC2 for complex simulations, ensuring high availability and efficient computation for detailed trading data analysis.
+Sequence Classification for Abbreviation and Long Form Detection Hugging Face | BERT | NLP | Sequence Classification	2024
+* Built a sequence classifier using the PLOD dataset to identify abbreviations (AC) and long forms (LF) with the BIO labelling schema. Fine-tuned multiple models, including SVM and BERT, and deployed the best-performing model as a web service.
+* Deployed a scalable machine learning model with Docker and FastAPI, ensuring seamless integration and real-time predictions. Leveraged containerization to provide a robust and consistent environment across multiple platforms.
+Healthcare Framework for Predicting Cardiovascular Disease R | Predictive Analytics | SVM | ggplot2	2023
+* Created a machine learning framework using R to assess cardiovascular disease risk, demonstrating the application of data science to real-world health challenges.
+* Assessed the framework using various supervised learning algorithms, achieving an AUC score of 0.88, ensuring the model's predictions are accurate and reliable.
+Paddy Crop Disease Detection Using Machine Learning TensorFlow | Computer Vision | Python | OpenCV	2020
+* Evaluated a CNN model using TensorFlow, achieving 92% accuracy in detecting paddy crop diseases. Designed a deep learning architecture with optimized layers and hyperparameters.
+* Curated a dataset of over 5,000 images and applied data augmentation techniques, such as rotation, flipping, and scaling, enhancing model robustness and accuracy.
+CERTIFICATES
+* Microsoft Certified: Azure Data Engineer Associate | Azure Data Fundamentals | Power Platform Fundamentals	
+
+2024-12-10 01:34:50,954 - INFO - Chatbot response: Based on Shashank Suresh's experience and skills, the following jobs are suitable for him:
+
+1. Data Scientist
+2. Machine Learning Engineer
+3. Cloud Solutions Architect
+4. Application Developer
+5. Database Administrator
+6. AI Specialist
+7. DevOps Engineer
+8. Data Analyst
+9. Business Intelligence Analyst
+10. Data Engineer
+11. Data Visualization Engineer
+12. Web Developer
+13. SQL Developer.
+2024-12-10 01:43:35,663 - INFO - Document uploaded: ShashankSuresh_Resume.txt, Size: 5835 characters
+2024-12-10 01:43:35,904 - INFO - FAISS index created with 1 chunks
